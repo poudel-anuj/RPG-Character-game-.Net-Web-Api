@@ -1,0 +1,203 @@
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\appsettings.Development.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\appsettings.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.exe
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.deps.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.pdb
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\staticwebassets.build.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\staticwebassets.development.json
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\refint\dotnet-rpg.dll
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.pdb
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+G:\.Net Api 6 EF\Projects\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\appsettings.Development.json
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\appsettings.json
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.exe
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.deps.json
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.pdb
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\AutoMapper.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Azure.Core.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Azure.Identity.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Humanizer.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Scrutor.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.CodeDom.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Memory.Data.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Text.Json.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\anuj\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\staticwebassets.build.json
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\staticwebassets.development.json
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.dll
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\refint\dotnet-rpg.dll
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.pdb
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+C:\anuj\Api-.Net-6-EF\obj\Debug\net6.0\ref\dotnet-rpg.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\appsettings.Development.json
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\appsettings.json
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.exe
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.deps.json
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\dotnet-rpg.pdb
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\AutoMapper.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Azure.Core.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Azure.Identity.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Humanizer.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Scrutor.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.CodeDom.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Memory.Data.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Text.Json.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\anuj\Backup\Api-.Net-6-EF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\staticwebassets.build.json
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\staticwebassets.development.json
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.dll
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\refint\dotnet-rpg.dll
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.pdb
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+C:\anuj\Backup\Api-.Net-6-EF\obj\Debug\net6.0\ref\dotnet-rpg.dll
